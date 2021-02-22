@@ -95,12 +95,10 @@ swap = {
 
 new = code
 
-if '=' in code:
-    print('fuck outa here with that python')
-    sys.exit()
-elif '3' in code:
-    print('fuck outa here with that python')
-    sys.exit()
+for name in swap.values():
+    calcname = " " + name + " " 
+    if calcname in code:
+        raise ValueError('What is this? '+ name)
 
 for item in swap: new = new.replace(item, swap[item])
 
