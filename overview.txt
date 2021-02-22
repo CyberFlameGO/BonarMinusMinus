@@ -75,5 +75,5 @@ goof		append
 cock		run
 chumburger	[]
 eburger		empty string
-bing		message
+howdy		message
 sprite		event

@@ -88,7 +88,7 @@ swap = {
             'cock' : 'run',
             'chumburger' : '[]',
             'eburger' : '\'\'',
-            'bing' : 'message',
+            'howdy' : 'message',
             'sprite' : 'event'
 }
 
