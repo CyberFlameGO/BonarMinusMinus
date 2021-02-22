@@ -90,14 +90,20 @@ swap = {
             'eburger' : '\'\'',
             'howdy' : 'message',
             'sprite' : 'event',
-            '!!' : ':'
+            '!!' : ':',
+            'tree' : '3'
 }
 
 new = code
 
+if '=' and ':' and '3' in code:
+    print('fuck outa here with that python')
+    sys.exit()
+
 for item in swap: new = new.replace(item, swap[item])
 
 # now we just have regular python code
+
 print("Bonar-- shits fixed")
 # confirm message
 
