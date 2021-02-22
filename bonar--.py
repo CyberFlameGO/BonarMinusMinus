@@ -96,7 +96,13 @@ swap = {
 
 new = code
 
-if '=' and ':' and '3' in code:
+if '=' in code:
+    print('fuck outa here with that python')
+    sys.exit()
+elif ':' in code:
+    print('fuck outa here with that python')
+    sys.exit()
+elif '3' in code:
     print('fuck outa here with that python')
     sys.exit()
 
