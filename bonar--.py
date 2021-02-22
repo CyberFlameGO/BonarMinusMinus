@@ -16,7 +16,7 @@ code = f.read()
 
 swap = {
             'gamming' : 'for',
-            'againandagain' : 'while',
+            'sonic' : 'while',
             'shitpost' : 'in',
             'hmm' : 'if',
             'wtf' : 'else',
@@ -27,7 +27,7 @@ swap = {
             'clobbong' : 'continue',
             'gibin' : 'input',
             'gebneralk' : 'class',
-            'meme' : 'def',
+            'chumbender' : 'def',
             'jeff' : 'return',
             'away' : '-',
             'yang' : '+', 
@@ -48,7 +48,7 @@ swap = {
             'dick' : 'with',
             'anime' : 'True',
             'no_anime' : 'False',
-            'Ele_' : 'None',
+            'soulLESS' : 'None',
             'ban' : 'del',
             'shit' : 'print',
             'zoom' : 'yield',

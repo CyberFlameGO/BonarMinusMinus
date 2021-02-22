@@ -3,7 +3,7 @@ Boner++ simply replaces a number of Python's core functional keywords with vario
 Command	Python Keyword or Operator:
 
 gamming		for
-againandagain	while
+sonic	    while
 shitpost	in
 hmm		if
 wtf		else
@@ -14,7 +14,7 @@ kaolo		break
 clobbong	continue
 gibin		input
 gebneralk	class
-meme		def
+chumbender	def
 jeff		return
 away		-
 yang		+
@@ -35,7 +35,7 @@ blorgia		as
 dick		with
 anime		True
 no_anime	False
-Ele_		None
+soulLESS	None
 ban		del
 shit		print
 zoom		yield
