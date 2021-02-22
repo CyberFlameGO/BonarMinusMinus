@@ -50,7 +50,7 @@ swap = {
             'no_anime' : 'False',
             'soulLESS' : 'None',
             'ban' : 'del',
-            'shit' : 'print',
+            'howdy' : 'print',
             'zoom' : 'yield',
             'troll' : 'lambda',
             'ADL' : 'raise',
@@ -88,7 +88,6 @@ swap = {
             'cock' : 'run',
             'chumburger' : '[]',
             'eburger' : '\'\'',
-            'howdy' : 'message',
             'sprite' : 'event',
             '!!' : ':',
             'tree' : '3'

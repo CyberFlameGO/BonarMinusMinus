@@ -37,7 +37,7 @@ anime		True
 no_anime	False
 soulLESS	None
 ban		del
-shit		print
+howdy   	print
 zoom		yield
 troll		lambda
 ADL		raise
@@ -75,7 +75,6 @@ goof		append
 cock		run
 chumburger	[]
 eburger		empty string
-howdy		message
 sprite		event
 !!          :
 tree        3
