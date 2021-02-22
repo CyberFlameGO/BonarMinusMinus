@@ -1,32 +1,33 @@
-Boner++ simply replaces a number of Python's core functional keywords with various other words or characters, as defined in the below table:
+Boner++ simply replaces a number of Python's core functional keywords with various other words or characters, as defined below:
 
-Command	Python Keyword or Operator
+Command	Python Keyword or Operator:
+
 gamming		for
-economy		while
+againandagain	while
 shitpost	in
-@heretic	if
+hmm		if
 wtf		else
-seOH		elif
-whiny		try
-shitbaby	except
-clong		break
+wtmm		elif
+doitwork	try
+nah		except
+kaolo		break
 clobbong	continue
-cirno		input
+gibin		input
 gebneralk	class
 meme		def
 jeff		return
-sex		-
+away		-
 yang		+
 gec		%
 anim		==
-boner		=
+bonar		=
 unfunwaa	<
 funwaa		>
-strikesy	<=
-tero		>=
+yote		<=
+yeet		>=
 xon		and
 detecotb	or
-fuck		is
+itdobe		is
 zenzi		not
 hpock		import
 tysob		from
@@ -37,7 +38,7 @@ no_anime	False
 Ele_		None
 ban		del
 shit		print
-zœœp		yield
+zoom		yield
 troll		lambda
 ADL		raise
 oil		pass
@@ -51,28 +52,28 @@ blacksheets	dict
 thumbnail	str
 xomc		int
 dicde		double
-soinenr		float
+boatin		float
 touhou		chr
 osu		map
 reimu		set
 based		max
 cringe		min
-⑨		range
+BrUH		range
 mips		round
 vig		sum
-privilege	super
+pringle		super
 dino		tuple
 rshig		zip
-racism		type
+racoon		type
 dong		len
 balls		list
 jeb		open
-femboy		join
+pipeline	join
 epyc		file
 skeet		split
 goof		append
 cock		run
-cumburger	[]
+chumburger	[]
 eburger		empty string
-shart		message
+bing		message
 sprite		event
