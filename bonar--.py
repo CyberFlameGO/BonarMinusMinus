@@ -106,7 +106,7 @@ for item in swap: new = new.replace(item, swap[item])
 
 # now we just have regular python code
 
-print("Bonar-- shits fixed")
+print("Bonar-- 0.8 shits fixed")
 # confirm message
 
 exec('# -*- coding: utf-8 -*-\n' + new)
