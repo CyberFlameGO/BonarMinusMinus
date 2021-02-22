@@ -18,8 +18,8 @@ meme		def
 jeff		return
 away		-
 yang		+
-gec		%
-anim		==
+perc		%
+deliberately_equals		==
 bonar		=
 unfunwaa	<
 funwaa		>
@@ -77,3 +77,4 @@ chumburger	[]
 eburger		empty string
 howdy		message
 sprite		event
+!!          :

@@ -31,8 +31,8 @@ swap = {
             'jeff' : 'return',
             'away' : '-',
             'yang' : '+', 
-            'gec' : '%',
-            'anim' : '==',
+            'perc' : '%',
+            'deliberately_equals' : '==',
             ' bonar ' : ' = ',
             ' unfunwaa ' : ' < ',
             ' funwaa ' : ' > ',
@@ -89,7 +89,8 @@ swap = {
             'chumburger' : '[]',
             'eburger' : '\'\'',
             'howdy' : 'message',
-            'sprite' : 'event'
+            'sprite' : 'event',
+            '!!' : ':'
 }
 
 new = code
