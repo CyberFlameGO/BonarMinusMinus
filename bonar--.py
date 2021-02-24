@@ -45,7 +45,7 @@ swap = {
             'hpock' : 'import',
             'tysob' : 'from',
             'blorgia' : 'as',
-            'dick' : 'with',
+            'pungle' : 'with',
             'anime' : 'True',
             'no_anime' : 'False',
             'soulLESS' : 'None',
@@ -90,7 +90,13 @@ swap = {
             'eburger' : '\'\'',
             'sprite' : 'event',
             '!!' : ':',
-            'tree' : '3'
+            'tree' : '3',
+            '})]' : '(',
+            '[({' : ')',
+            '}])' : '[',
+            '([{' : ']',
+            ')]}' : '{',
+            '{[(' : '}'
 }
 
 new = code
@@ -104,7 +110,7 @@ for item in swap: new = new.replace(item, swap[item])
 
 # now we just have regular python code
 
-print("Bonar-- 0.8 shits fixed")
+print("Bonar-- 1.0 shits fixed")
 # confirm message
 
 exec('# -*- coding: utf-8 -*-\n' + new)

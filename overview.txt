@@ -32,7 +32,7 @@ zenzi		not
 hpock		import
 tysob		from
 blorgia		as
-dick		with
+pungle		with
 anime		True
 no_anime	False
 soulLESS	None
@@ -78,3 +78,9 @@ eburger		empty string
 sprite		event
 !!          :
 tree        3
+})]          (
+[({          )
+}])          [
+}])          ]
+)]}          {
+{[( 	     }
