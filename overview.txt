@@ -1,4 +1,4 @@
-Boner++ simply replaces a number of Python's core functional keywords with various other words or characters, as defined below:
+Bonar-- simply replaces a number of Python's core functional keywords with various other words or characters, as defined below:
 Dont use 'is' in a sentence cuz it wil be boofed
 Command	Python Keyword or Operator:
 
